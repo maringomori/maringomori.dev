@@ -1,23 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Marin Gömöri</title>
-    <link>https://maringomori.dev/</link>
-    <description>Recent content on Marin Gömöri</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jan 2022 07:19:54 +0100</lastBuildDate><atom:link href="https://maringomori.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World!</title>
-      <link>https://maringomori.dev/posts/mypost/</link>
-      <pubDate>Fri, 21 Jan 2022 07:19:54 +0100</pubDate>
-      
-      <guid>https://maringomori.dev/posts/mypost/</guid>
-      <description>Hello World! print(&amp;#34;Hello World!&amp;#34;) </description>
-      <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World!&amp;#34;&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marin Gömöri</title><link>https://maringomori.dev/</link><description>Recent content on Marin Gömöri</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2022 &lt;a href='https://twitter.com/0xMrn'>Marin Gömöri&lt;/a></copyright><lastBuildDate>Fri, 21 Jan 2022 07:19:54 +0100</lastBuildDate><atom:link href="https://maringomori.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://maringomori.dev/about/</link><pubDate>Fri, 21 Jan 2022 11:32:34 +0100</pubDate><guid>https://maringomori.dev/about/</guid><description>Hi! I am a Full Stack Developer from Pécs, Hungary. I work as a professional developer. I&amp;rsquo;m usually always seeking new challenges and the opportunity to learn something new. I&amp;rsquo;m currently spending my free time with blockchains, smart contracts, and NFTs.
+The purpose of this blog is to share my knowledge and my experience.
+If you want to contact me, feel free to do it through my socials which you can find above :)</description><content>&lt;h1 id="hi">Hi!&lt;/h1>
+&lt;p>I am a Full Stack Developer from Pécs, Hungary. I work as a professional developer. I&amp;rsquo;m usually always seeking new challenges and the opportunity to learn something new. I&amp;rsquo;m currently spending my free time with blockchains, smart contracts, and NFTs.&lt;/p>
+&lt;p>The purpose of this blog is to share my knowledge and my experience.&lt;/p>
+&lt;p>If you want to contact me, feel free to do it through my socials which you can find above :)&lt;/p>
+&lt;img src="https://maringomori.dev/images/about/marin_gomori.jpg" alt="Hello Friend" class="center" style="border-radius: 8px;" /></content></item><item><title>Hello World!</title><link>https://maringomori.dev/posts/hello-world/</link><pubDate>Fri, 21 Jan 2022 07:19:54 +0100</pubDate><guid>https://maringomori.dev/posts/hello-world/</guid><description>Hello World! I finnaly decided to setup my personal website where I can share stuff about programming and development!
+print(&amp;#34;Hello World!&amp;#34;) This is the first time I used HUGO for any kind of application, so far I&amp;rsquo;m linking it a lot. Hopefully, I can keep the site simple and lightweight :)
+Later down the line, there will be tutorials, and content targeted to people who want to learn programming or deep diver into specific topics.</description><content>&lt;h1 id="hello-world">Hello World!&lt;/h1>
+&lt;p>I finnaly decided to setup my personal website where I can share stuff about programming and development!&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-python" data-lang="python">print(&lt;span style="color:#e6db74">&amp;#34;Hello World!&amp;#34;&lt;/span>)
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>This is the first time I used HUGO for any kind of application, so far I&amp;rsquo;m linking it a lot. Hopefully, I can keep the site simple and lightweight :)&lt;/p>
+&lt;p>Later down the line, there will be tutorials, and content targeted to people who want to learn programming or deep diver into specific topics.&lt;/p></content></item></channel></rss>
