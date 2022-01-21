@@ -8,16 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jan 2022 07:19:54 +0100</lastBuildDate><atom:link href="https://maringomori.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First post</title>
+      <title>Hello World!</title>
       <link>https://maringomori.dev/posts/mypost/</link>
       <pubDate>Fri, 21 Jan 2022 07:19:54 +0100</pubDate>
       
       <guid>https://maringomori.dev/posts/mypost/</guid>
-      <description>Hey public static void main(String []args){ System.out.println(&amp;#34;This a print&amp;#34;); } </description>
-      <content>&lt;h1 id=&#34;hey&#34;&gt;Hey&lt;/h1&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;String &lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt;args&lt;span style=&#34;color:#f92672&#34;&gt;){&lt;/span&gt;
-    System&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;This a print&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;);&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+      <description>Hello World! print(&amp;#34;Hello World!&amp;#34;) </description>
+      <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World!&amp;#34;&lt;/span&gt;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
     </item>
     

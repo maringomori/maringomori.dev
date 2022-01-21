@@ -8,21 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jan 2022 07:19:54 +0100</lastBuildDate><atom:link href="https://maringomori.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>java</title>
-      <link>https://maringomori.dev/tags/java/</link>
+      <title>python</title>
+      <link>https://maringomori.dev/tags/python/</link>
       <pubDate>Fri, 21 Jan 2022 07:19:54 +0100</pubDate>
       
-      <guid>https://maringomori.dev/tags/java/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>printl</title>
-      <link>https://maringomori.dev/tags/printl/</link>
-      <pubDate>Fri, 21 Jan 2022 07:19:54 +0100</pubDate>
-      
-      <guid>https://maringomori.dev/tags/printl/</guid>
+      <guid>https://maringomori.dev/tags/python/</guid>
       <description></description>
       <content></content>
     </item>
